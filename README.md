@@ -68,13 +68,15 @@ Starting from **Jan 2025**, the team will meet regularly at the following times:
 
 ---
 
-## Books
-| Date | Presenter | Title | Review / Paper / Code |
-|:---:|:---:|:---:|:---:|
+## Videos
+| Date | Presenter | Submitter | Title | Review / Assignment |
+|:---:|:---:|:---:|:---:|:---:|
+| 2024.12.28 | yuhan | yuhan, yuhan, yuhan | Knowledge-enhanced visual-language pre-training on chest radiology images (Nature 2023) | [Review](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023).pdf) <br> [Assignment](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
+
 
 ---
 
-## Reviews
+## Paper Reviews
 | Date | Presenter | Title | Review / Paper / Code |
 |:---:|:---:|:---:|:---:|
 | 2024.12.28 | yuhan | Knowledge-enhanced visual-language pre-training on chest radiology images (Nature 2023) | [Review](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023).pdf) <br> [Paper](https://www.nature.com/articles/s41467-023-40260-7) <br> [Code](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
@@ -83,7 +85,6 @@ Starting from **Jan 2025**, the team will meet regularly at the following times:
 
 ## Repository Structure
 ```
-📂 Books
 📂 Videos
 ├── 📁 University of Michigan
 │ ├── 📁 DeepLearning for Computer Vision
