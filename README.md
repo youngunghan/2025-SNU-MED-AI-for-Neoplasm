@@ -17,6 +17,7 @@ Led by **Youngung Han**, a Ph.D. candidate at Seoul National University (SNU) in
 
 - **CNN (Convolutional Neural Network)**
 - **DM (Diffusion Models)**
+- **LLM (Large Language Models)**
 - **RL (Reinforcement Learning)**
 - **PNI (Perineural Invasion)**
 - **MVI (Microvascular Invasion)**
@@ -36,7 +37,7 @@ Led by **Youngung Han**, a Ph.D. candidate at Seoul National University (SNU) in
  
 ### Team Members
 Our team consists of passionate researchers with diverse backgrounds, working together to tackle challenging problems in AI.
-### Co-leader: Kyeonghun Kim (khkim)
+#### Team Member: Kyeonghun Kim (khkim)
 - **Affiliation**: GNEWSOFT R&D Center
 - **Research Interests**: 3D Vision, Medical AI, Vision-Language Models (VLMs) for Healthcare
 
