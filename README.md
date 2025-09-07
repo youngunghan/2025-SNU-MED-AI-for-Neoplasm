@@ -1,10 +1,9 @@
 # 2025-SNU-MED-AI-for-Neoplasm
+Study, learn, and share medAI knowledge—experts and newbies teaming up to make global resources accessible for all.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
-A team where medical AI experts and non-experts come together to enjoy researching and learning.
 
 ---
 
