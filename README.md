@@ -68,21 +68,6 @@ Starting from **Jan 2025**, the team will meet regularly at the following times:
 
 ---
 
-## Videos
-| Date | Presenter | Title | Review / Assignment |
-|:---:|:---:|:---:|:---:|
-| 2024.12.28 | yuhan | Knowledge-enhanced visual-language pre-training on chest radiology images (Nature 2023) | [Review](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023).pdf) <br> [Assignment_yuhan](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) <br> [Assignment_yuhan](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) <br> [Assignment_yuhan](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
-
-
----
-
-## Paper Reviews
-| Date | Presenter | Title | Review / Paper / Code |
-|:---:|:---:|:---:|:---:|
-| 2024.12.28 | yuhan | Knowledge-enhanced visual-language pre-training on chest radiology images (Nature 2023) | [Review](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023).pdf) <br> [Paper](https://www.nature.com/articles/s41467-023-40260-7) <br> [Code](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
-
----
-
 ## Repository Structure
 ```
 📂 Videos
@@ -108,3 +93,24 @@ Starting from **Jan 2025**, the team will meet regularly at the following times:
 │ └── ...
 └── ...
 ```
+
+---
+
+## Videos
+| Date | Presenter | Title | Review / Assignment |
+|:---:|:---:|:---:|:---:|
+| 2024.12.28 | yuhan | Knowledge-enhanced visual-language pre-training on chest radiology images (Nature 2023) | [Review](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023).pdf) <br> [Assignment_yuhan](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) <br> [Assignment_yuhan](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) <br> [Assignment_yuhan](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
+
+
+---
+
+## Paper Reviews
+| Date | Presenter | Title | Review / Paper / Code |
+|:---:|:---:|:---:|:---:|
+| 2024.12.28 | yuhan | Knowledge-enhanced visual-language pre-training on chest radiology images (Nature 2023) | [Review](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023).pdf) <br> [Paper](https://www.nature.com/articles/s41467-023-40260-7) <br> [Code](https://github.com/youngunghan/2025-SNU-MED-AI-for-Neoplasm/blob/main/Paper%20Review/LLM/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)/Knowledge-enhanced%20visual-language%20pre-training%20on%20chest%20radiology%20images%20(Nature%202023)_yuhan.ipynb) |
+
+---
+## Reference
+- [Seoul National University, Mathematical Foundations of Deep Neural Networks, Spring 2024](https://ernestryu.com/courses/deep_learning.html)
+- [University of MICHIGAN, Deep Learning for Computer Vision, Fall 2020](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
+
