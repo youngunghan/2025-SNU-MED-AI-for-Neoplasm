@@ -19,8 +19,6 @@ Led by **Youngung Han**, a Ph.D. candidate at Seoul National University (SNU) in
 - **LLM (Large Language Models)**
 - **RL (Reinforcement Learning)**
 - **PNI (Perineural Invasion)**
-- **MVI (Microvascular Invasion)**
-- **fMRI (functional Magnetic Resonance Imaging)**
 
 ---
 
@@ -28,11 +26,7 @@ Led by **Youngung Han**, a Ph.D. candidate at Seoul National University (SNU) in
 
 ### Leader: Youngung Han (yuhan)
 - **Affiliation**: Ph.D. Candidate, Department of Computer Science and Engineering, Seoul National University
-- **Research Interests**: Machine Learning, Deep Learning, Generative Models, Natural Language Processing, Computer Vision, Medical AI
-
-### Co-leader: Minkyoung Cha (mkcha)
-- **Affiliation**: Undergraduate Student, Department of Nursing & Life Sciences & Brain-Cognitive Sciences, Seoul National University
-- **Research Interests**: 
+- **Research Interests**: Machine Learning, Deep Learning, Generative Models, Natural Language Processing, Computer Vision, Medical AI, Generative AI
  
 ### Team Members
 Our team consists of passionate researchers with diverse backgrounds, working together to tackle challenging problems in AI.
@@ -53,6 +47,10 @@ Our team consists of passionate researchers with diverse backgrounds, working to
 - **Research Interests**:
 
 #### Team Member: Junghyeok Park (jhpark)
+- **Affiliation**: Undergraduate Student, Department of Architecture, Seoul National University
+- **Research Interests**:
+
+#### Team Member: Junga Kim (jakim)
 - **Affiliation**: Undergraduate Student, Department of Architecture, Seoul National University
 - **Research Interests**:
   
